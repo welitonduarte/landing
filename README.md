@@ -1,36 +1,64 @@
-# ⚖️ Website of Law Office of M. Winiarska
+# MW Law Office – Professional Landing Page
 
-![MW Law Office Readme](src/assets/readme/mw-screenshot.png)
-
-## Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Project Highlights](#project-highlights)
-- [Built with](#built-with)
-- [License](#license)
+![MW Law Office Screenshot](src/assets/readme/mw-screenshot.png)
 
 ## Overview
-The Law Office of M. Winiarska landing page is a modern and professional online website designed to showcase legal services effectively. It combines clean design, intuitive navigation, and interactive elements to create a seamless user experience that reflects the professionalism of the firm.
+MW Law Office website is a **modern, clean, and professional landing page** designed for a law firm.  
+It showcases the firm’s legal services with **clarity, elegance, and user-friendly navigation**, reflecting the firm’s credibility and professionalism.  
+The project demonstrates **responsive design, interactive animations, and branding-focused UI/UX**, making it suitable for both desktop and mobile visitors.
 
-## Key Features
-- **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices.
-- **Dark and Light Mode:** Switch between themes to suit individual preferences.
-- **Interactive Animations:** Subtle animations enhance the user experience without compromising performance.
-- **Clear Service Presentation:** Information is organized to highlight key legal services.
+---
 
-## Project Highlights
-- **Dynamic Theme Switching:** Users can toggle between light and dark mode for a personalized browsing experience.
-- **Elegant Animations:** Engaging transitions and interactive elements add a polished touch to the website.
-- **Focused Content Layout:** Minimalist design ensures that the content is front and center, keeping distractions to a minimum.
-- **Customizable Design:** The layout and styling can easily be tailored to meet specific branding needs.
+## ✨ Key Highlights
+- **Professional & Elegant Design:** Clean typography, balanced layout, and a subtle color palette inspired by law firm branding.  
+- **Responsive Across Devices:** Optimized for desktop, tablet, and mobile screens.  
+- **Light & Dark Mode:** Adaptive theme switching for enhanced user experience.  
+- **Intuitive Navigation:** Clear menu structure with dedicated subpage navigation for specific legal services.  
+- **Interactive Elements:** Smooth animations enhance engagement without compromising accessibility or performance.  
+- **Focused Content Layout:** Minimalist approach ensures legal services are highlighted prominently.  
 
-## Built with:
-- **React.js** - A JavaScript library for building user interfaces.
-- **JavaScript (ES6+)** - For functionality and interactivity.
-- **HTML5** - Structuring the content of the website.
-- **CSS3** - Styling and layout, including animations.
-- **Framer Motion** - For smooth and modern animations.
-- **Responsive Design Techniques** - Ensures compatibility across all devices.
+---
 
-## License
-This project is licensed under the MIT License.
+## 🏛️ Subpages & Navigation
+Dedicated sections for:  
+- Civil Law  
+- Family Law  
+- Corporate Law  
+- Labor Law  
+- Real Estate Law  
+- Data Protection Law  
+
+Each section is designed for **clarity, readability, and easy access** to relevant information.
+
+---
+
+## 🎨 Design & Branding
+- **Primary Colors:** Gold (#897455) accents, neutral backgrounds, high contrast for readability.  
+- **Typography:** Elegant, professional fonts (Inter / Lato) for body and menu text.  
+- **Animations:** Subtle motion effects via Framer Motion enhance the polished look.  
+- **Dark & Light Mode:** Ensures accessibility and modern UX compliance.  
+
+---
+
+## 🛠️ Built With
+- **React.js** – Component-based UI library  
+- **JavaScript (ES6+)** – Dynamic functionality  
+- **HTML5 & CSS3** – Semantic structure and styling  
+- **Framer Motion** – Smooth animations for modern interactions  
+- **Responsive Design Techniques** – Mobile-first and desktop-friendly  
+
+---
+
+## 💡 Why This Project
+This project demonstrates a **high-quality, UX/UI-focused website** for professional services.  
+It’s a perfect example of how **clean design, thoughtful branding, and interactive elements** can elevate a professional web presence, making it ideal for law offices or similar service businesses.
+
+---
+
+## 📂 Demo
+You can view the live project here: [MW Law Office Website](https://github.com/LauraGlab/MW-lawyer-website)  
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License**.
