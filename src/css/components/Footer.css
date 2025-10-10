@@ -74,12 +74,23 @@ address p{
   color: var(--gold);
 }
 
+.footerLink{
+  color: var(--gold);
+  text-transform: capitalize;
+}
+
 @media (min-width: 768px) {
   .footerContent {
     display: grid;
     gap: 3rem;
     grid-template-columns: repeat(3, 1fr);
-    padding-bottom: 1.5rem;
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+
+  .footerSection{
+    padding-bottom: 1rem;
+    padding-top: 2rem;
   }
 
   address p{
@@ -91,5 +102,9 @@ address p{
     border-bottom: none;
     border-right: 1px solid var(--gold);
     padding-right: 2rem;
+  }
+
+  .footerHeading {
+    margin-top: 0;
   }
 }
