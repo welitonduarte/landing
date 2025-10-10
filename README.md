@@ -1,6 +1,6 @@
 # MW Law Office – Professional Landing Page
 
-![MW Law Office Screenshot](src/assets/readme/mw-screenshot.png)
+![MW Law Office Screenshot](src/assets/readme/1.png)
 
 ## Overview
 MW Law Office website is a **modern, clean, and professional landing page** designed for a law firm.  
@@ -33,6 +33,9 @@ Each section is designed for **clarity, readability, and easy access** to releva
 ---
 
 ## 🎨 Design & Branding
+
+![MW Law Office Screenshot](src/assets/readme/2.png)
+
 - **Primary Colors:** Gold (#897455) accents, neutral backgrounds, high contrast for readability.  
 - **Typography:** Elegant, professional fonts (Inter / Lato) for body and menu text.  
 - **Animations:** Subtle motion effects via Framer Motion enhance the polished look.  
@@ -49,6 +52,13 @@ Each section is designed for **clarity, readability, and easy access** to releva
 
 ---
 
+### 📸 UI Showcase  
+
+![MW Law Office Screenshot](src/assets/readme/3.png)
+![MW Law Office Screenshot](src/assets/readme/4.png)
+
+---
+
 ## 💡 Why This Project
 This project demonstrates a **high-quality, UX/UI-focused website** for professional services.  
 It’s a perfect example of how **clean design, thoughtful branding, and interactive elements** can elevate a professional web presence, making it ideal for law offices or similar service businesses.
@@ -62,3 +72,4 @@ You can view the live project here: [MW Law Office Website](https://github.com/L
 
 ## 📄 License
 This project is licensed under the **MIT License**.
+
