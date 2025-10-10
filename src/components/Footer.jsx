@@ -64,7 +64,12 @@ export default function Footer() {
       </div>
 
       <div className="footerBottom">
-        <p className="footerCredit">Designed and Coded by Laura Głąb</p>
+        <p className="footerCredit">
+          Designed and Coded by{" "}
+          <strong>
+            <a className="footerLink" href="https://laura-glab.vercel.app/">Laura Głąb</a>
+          </strong>
+        </p>
       </div>
     </footer>
   );
