@@ -28,7 +28,8 @@
     background-position: 110% 100%, 0 110%; 
     background-repeat: no-repeat;
     border: none;
-    color: var(--white);
+    color: white;
+    font-size: var(--font-sm);
     margin-right: 0.4rem;
     outline: none;
     transition: background-size 0.4s;
