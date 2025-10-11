@@ -1,4 +1,3 @@
-import React from "react";
 import "./../../../css/components/header/menu/MenuList.css";
 
 export default function MenuList() {
@@ -12,6 +11,7 @@ export default function MenuList() {
     { id: "mission", label: "Misja" },
     { id: "expertise", label: "Czym się zajmuję?" },
     { id: "about", label: "O Mnie" },
+    { id: "testimonials", label: "Opinie" },
     { id: "contact", label: "Kontakt" },
   ];
 
