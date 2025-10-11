@@ -6,7 +6,7 @@ import CloseIcon from "./../../../assets/icons/closeIcon.svg";
 import "./../../../css/components/header/menu/Menu.css";
 
 const menuItems = [
-  { label: "Strona Główna", id: "home"},
+  { label: "Strona Główna", id: "home" },
   { label: "Misja", id: "mission" },
   {
     label: "Czym się zajmuję?",
@@ -14,6 +14,7 @@ const menuItems = [
     expandable: true,
   },
   { label: "O mnie", id: "about" },
+  { label: "Opinie klientów", id: "testimonials" },
   { label: "Kontakt", id: "contact" },
 ];
 
