@@ -13,13 +13,13 @@ export default function NavSection({
     <header id="header" role="banner">
       <nav
         className="main-navigation"
-        aria-label="Główna nawigacja"
+        aria-label="Navegação principal"
         role="navigation"
       >
         <HamburgerMenu
           onToggle={onToggleMenu}
           showMenu={showMenu}
-          aria-label={showMenu ? "Zamknij menu" : "Otwórz menu"}
+          aria-label={showMenu ? "Fechar Menu" : "Abrir Menu"}
         />
         {showMenu && <Menu onClose={onToggleMenu} />}
         <MenuList />
