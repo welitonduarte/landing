@@ -15,18 +15,18 @@ export default function Footer() {
         </div>
 
         <div className="footerSection footerContact">
-          <h3 className="footerHeading">Dane kontaktowe</h3>
+          <h3 className="footerHeading">Ana Sonaira</h3>
           <address className="footerAddress">
             <p>
               E-mail: <a href="mailto:martyna@gmail.com">martyna@gmail.com</a>
             </p>
             <p>
-              Telefon: <a href="tel:+123456789">(+48)123456789</a>
+              Celular: <a href="tel:65996101750">(65) 9 9610-1750</a>
             </p>
             <p>
               LinkedIn:{" "}
               <a
-                href="https://linkedin.com/martynaw"
+                href="https://linkedin.com/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
