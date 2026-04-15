@@ -2,12 +2,12 @@ import { Link } from "react-router-dom";
 import "./../../../css/components/header/menu/MenuExp.css";
 
 const lawLinks = [
-  { label: "Prawo Cywilne", path: "/prawo-cywilne" },
-  { label: "Prawo Rodzinne", path: "/prawo-rodzinne" },
-  { label: "Prawo Gospodarcze", path: "/prawo-gospodarcze" },
-  { label: "Prawo Pracy", path: "/prawo-pracy" },
-  { label: "Prawo Nieruchomości", path: "/prawo-nieruchomosci" },
-  { label: "Prawo Ochrony Danych Osobowych", path: "/prawo-danych" },
+  { label: "Direito Civil", path: "/prawo-cywilne" },
+  { label: "Direito de Família", path: "/prawo-rodzinne" },
+  { label: "Direito Empresarial", path: "/prawo-gospodarcze" },
+  { label: "Direito do Trabalho", path: "/prawo-pracy" },
+  { label: "Direito Imobiliário", path: "/prawo-nieruchomosci" },
+  { label: "Direito de Proteção de Dados Pessoais", path: "/prawo-danych" },
 ];
 
 export default function MenuExp() {
@@ -16,7 +16,7 @@ export default function MenuExp() {
       <ul
         className="submenuList"
         role="menu"
-        aria-label="Podmenu dziedzin prawa"
+        aria-label="Submenu áreas do direito"
       >
         {lawLinks.map(({ label, path }) => (
           <li key={path} className="submenuItem" role="none">
@@ -26,7 +26,7 @@ export default function MenuExp() {
               className="submenuLink"
               role="menuitem"
               tabIndex={0}
-              aria-label={`Przejdź do strony ${label}`}
+              aria-label={`Ir para a página ${label}`}
             >
               {label}
             </Link>
