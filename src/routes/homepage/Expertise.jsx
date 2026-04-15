@@ -39,7 +39,7 @@ export default function Expertise() {
               icon: civilIcon,
               alt: "Ikona przedstawiająca prawo cywilne",
               to: "/prawo-cywilne",
-              title: "Prawo Cywilne",
+              title: "Direito Civil",
               description:
                 "Zajmuję się sprawami dotyczącymi sporządzania i negocjacji umów, dochodzenia roszczeń oraz odszkodowań, a także ochroną praw osobistych. Reprezentuję klientów w sprawach cywilnych przed sądem oraz podczas mediacji.",
             },
@@ -47,7 +47,7 @@ export default function Expertise() {
               icon: familyIcon,
               alt: "Ikona przedstawiająca prawo rodzinne",
               to: "/prawo-rodzinne",
-              title: "Prawo Rodzinne",
+              title: "Direito de Família",
               description:
                 "Pomagam klientom w kwestiach rozwodowych, ustaleniu opieki nad dziećmi, alimentów oraz podziału majątku. Zajmuję się również sporami rodzinnymi, zapewniając wsparcie w trudnych sytuacjach życiowych.",
             },
@@ -55,7 +55,7 @@ export default function Expertise() {
               icon: economIcon,
               alt: "Ikona przedstawiająca prawo gospodarcze",
               to: "/prawo-gospodarcze",
-              title: "Prawo Gospodarcze",
+              title: "Direito Empresarial",
               description:
                 "Doradzam firmom w zakresie tworzenia umów handlowych, przekształceń spółek oraz sporów gospodarczych. Wspieram przedsiębiorstwa na każdym etapie ich działalności, dbając o zgodność z przepisami prawnymi.",
             },
@@ -63,7 +63,7 @@ export default function Expertise() {
               icon: jobIcon,
               alt: "Ikona przedstawiająca prawo pracy",
               to: "/prawo-pracy",
-              title: "Prawo Pracy",
+              title: "Direito do Trabalho",
               description:
                 "Reprezentuję zarówno pracowników, jak i pracodawców w sprawach dotyczących umów o pracę, zwolnień, sporów pracowniczych oraz mobbingu. Doradzam w zakresie praw i obowiązków wynikających z kodeksu pracy.",
             },
@@ -71,7 +71,7 @@ export default function Expertise() {
               icon: estateIcon,
               alt: "Ikona przedstawiająca prawo nieruchomości",
               to: "/prawo-nieruchomosci",
-              title: "Prawo Nieruchomości",
+              title: "Direito Imobiliário",
               description:
                 "Oferuję kompleksową pomoc prawną w zakresie kupna, sprzedaży, wynajmu nieruchomości oraz sporów związanych z prawem własności. Pomagam w sporządzaniu umów, negocjacjach oraz prowadzeniu spraw sądowych dotyczących nieruchomości.",
             },
@@ -79,7 +79,7 @@ export default function Expertise() {
               icon: dataIcon,
               alt: "Ikona przedstawiająca ochronę danych osobowych",
               to: "/prawo-danych",
-              title: "Prawo Ochrony Danych Osobowych",
+              title: "Direito de Proteção de Dados Pessoais",
               description:
                 "Zajmuję się doradztwem w zakresie przepisów dotyczących ochrony danych osobowych (RODO). Pomagam firmom dostosować się do wymogów prawnych, sporządzać polityki prywatności oraz chronić dane klientów.",
             },
