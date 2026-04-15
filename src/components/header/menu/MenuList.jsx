@@ -8,11 +8,11 @@ export default function MenuList() {
 
   const menuItems = [
     { id: "home", label: "Home" },
-    { id: "mission", label: "Misja" },
-    { id: "expertise", label: "Czym się zajmuję?" },
-    { id: "about", label: "O Mnie" },
-    { id: "testimonials", label: "Opinie" },
-    { id: "contact", label: "Kontakt" },
+    { id: "mission", label: "Missão" },
+    { id: "expertise", label: "O que eu faço?" },
+    { id: "about", label: "Sobre mim" },
+    { id: "testimonials", label: "Opiniões" },
+    { id: "contact", label: "Contato" },
   ];
 
   return (
