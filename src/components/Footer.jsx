@@ -22,16 +22,6 @@ export default function Footer() {
             <p>
               Celular: <a href="tel:65996101750">(65) 9 9610-1750</a>
             </p>
-            <p>
-              LinkedIn:{" "}
-              <a
-                href="https://linkedin.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                linkedin.com/martynaw
-              </a>
-            </p>
           </address>
         </div>
 
