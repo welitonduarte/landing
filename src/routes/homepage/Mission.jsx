@@ -17,8 +17,8 @@ export default function Mission() {
         onViewportEnter={() => console.log("Animation triggered!")}
       >
         <h2 id="mission-heading" className="missionTitle subheading">
-          Dbamy o <br />
-          naszych klientów
+          Nos preocupamos com <br />
+          nossos clientes
         </h2>
       </motion.div>
 
