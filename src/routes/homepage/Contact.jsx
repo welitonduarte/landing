@@ -46,7 +46,7 @@ export default function Contact() {
             viewport={{ once: true }}
           >
             <h1 id="contact-heading" className="contactTitle subheading">
-              Kontakt
+              Contato
             </h1>
           </motion.div>
 
@@ -58,8 +58,7 @@ export default function Contact() {
             viewport={{ once: true }}
           >
             <h4 className="contactSubTitle">
-              Zaufaj doświadczeniu i skontaktuj się, aby uzyskać profesjonalną
-              pomoc prawną dostosowaną do Twoich potrzeb.
+              Confie na nossa experiência e entre em contato conosco para receber assistência jurídica profissional personalizada às suas necessidades.
             </h4>
           </motion.div>
 
@@ -81,14 +80,14 @@ export default function Contact() {
               id="name"
               className="inputField"
               {...register("name")}
-              placeholder="Twoje Imię *"
+              placeholder="Seu nome *"
               aria-invalid={errors.name ? "true" : "false"}
               aria-describedby={errors.name ? "name-error" : undefined}
             />
             <div className="errorWrapper">
               {errors.name && (
                 <p id="name-error" className="errorText">
-                  Imię musi zawierać co najmniej 3 znaki.
+                  O nome deve conter pelo menos 3 caracteres.
                 </p>
               )}
             </div>
@@ -96,14 +95,14 @@ export default function Contact() {
               id="email"
               className="inputField"
               {...register("email")}
-              placeholder="Twój E-mail *"
+              placeholder="Seu E-mail *"
               aria-invalid={errors.email ? "true" : "false"}
               aria-describedby={errors.email ? "email-error" : undefined}
             />
             <div className="errorWrapper">
               {errors.email && (
-                <p id="email-error" className="errorText">
-                  Niepoprawny e-mail.
+                <p id="email-error" className="errorText">                  
+                  E-mail inválido.
                 </p>
               )}
             </div>
@@ -111,14 +110,14 @@ export default function Contact() {
               id="message"
               className="inputField"
               {...register("message")}
-              placeholder="Wiadomość *"
+              placeholder="Mensagem *"
               aria-invalid={errors.message ? "true" : "false"}
               aria-describedby={errors.message ? "message-error" : undefined}
             ></textarea>
             <div className="errorWrapper">
               {errors.message && (
                 <p id="message-error" className="errorText">
-                  Wiadomość powinna zawierać co najmniej 10 znaków.
+                  A mensagem deve conter pelo menos 10 caracteres.
                 </p>
               )}
             </div>
@@ -127,8 +126,8 @@ export default function Contact() {
               <input
                 className="submitBtn"
                 type="submit"
-                value="Wyślij wiadomość"
-                aria-label="Wyślij formularz kontaktowy"
+                value="Envie uma mensagem"
+                aria-label="Envie o formulário de contato"
               />
             </div>
           </form>
