@@ -32,7 +32,7 @@ export default function Testimonials() {
         transition={{ duration: 1 }}
         viewport={{ once: true }}
       >
-        Opinie Klientów
+        Opiniões dos clientes
       </motion.h2>
 
       <div className="testimonialsGrid">
