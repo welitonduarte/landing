@@ -23,7 +23,7 @@ export default function Expertise() {
         viewport={{ once: true, amount: 0.2 }}
       >
         <h2 id="expertise-heading" className="expertiseTitle subheading">
-          Zapoznaj się z moimi obszarami specjalizacji
+          Saiba mais sobre minhas áreas de especialização.
         </h2>
       </motion.div>
 
