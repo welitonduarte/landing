@@ -9,18 +9,18 @@ export default function InfoBar({ onScrollToSection }) {
   return (
     <div className="infoBar">
       <div className="infoSection">
-        <InfoItem icon={PhoneIcon} text="+48 123 456 789" />
+        <InfoItem icon={PhoneIcon} text="(65) 9 9610-1750" />
         <span className="dot">•</span>
-        <InfoItem icon={LetterIcon} text="martynaw@gmail.com" />
+        <InfoItem icon={LetterIcon} text="anasonaira@gmail.com" />
         <span className="dot">•</span>
-        <InfoItem icon={ClockIcon} text="Pon-Pt 9:00-16:00" />
+        <InfoItem icon={ClockIcon} text="Seg-Sex 9:00-17:00" />
       </div>
       <button
         className="messageButton"
         onClick={() => onScrollToSection("contact")}
       >
         <img className="bubble" src={BubbleIcon} alt="bubble chat icon" />
-        Napisz wiadomość
+        Escreva uma mensagem
       </button>
     </div>
   );
