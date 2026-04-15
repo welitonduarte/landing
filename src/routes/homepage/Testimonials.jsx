@@ -5,7 +5,7 @@ const testimonials = [
   {
     quote:
       "Pani Martyna Winiarska wykazała się ogromnym profesjonalizmem i zaangażowaniem. Dzięki jej pomocy moja sprawa zakończyła się sukcesem.",
-    name: "Anna K.",
+    name: "João F.",
     rating: 5,
   },
   {
