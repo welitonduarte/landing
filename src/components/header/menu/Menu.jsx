@@ -6,16 +6,16 @@ import CloseIcon from "./../../../assets/icons/closeIcon.svg";
 import "./../../../css/components/header/menu/Menu.css";
 
 const menuItems = [
-  { label: "Strona Główna", id: "home" },
-  { label: "Misja", id: "mission" },
+  { label: "Página inicial", id: "home" },
+  { label: "Missão", id: "mission" },
   {
-    label: "Czym się zajmuję?",
+    label: "O que eu faço?",
     id: "expertise",
     expandable: true,
   },
-  { label: "O mnie", id: "about" },
-  { label: "Opinie klientów", id: "testimonials" },
-  { label: "Kontakt", id: "contact" },
+  { label: "Sobre mim", id: "about" },
+  { label: "Opiniões dos clientes", id: "testimonials" },
+  { label: "Contato", id: "contact" },
 ];
 
 export default function Menu({ onClose }) {
