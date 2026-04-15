@@ -9,8 +9,7 @@ export default function Footer() {
         <div className="footerSection footerInfo">
           <img className="footerLogo" src={Logo} alt="Logo kancelarii" />
           <p className="footerDescription">
-            Świadczę usługi prawne w biurze oraz zdalnie, dostosowując się do
-            potrzeb klientów w całym kraju.
+            Presto serviços jurídicos presencialmente e remotamente, adaptando-me às necessidades de clientes em todo o Brasil.
           </p>
         </div>
 
@@ -18,7 +17,7 @@ export default function Footer() {
           <h3 className="footerHeading">Ana Sonaira</h3>
           <address className="footerAddress">
             <p>
-              E-mail: <a href="mailto:martyna@gmail.com">martyna@gmail.com</a>
+              E-mail: <a href="mailto:martyna@gmail.com">anasonaira@gmail.com</a>
             </p>
             <p>
               Celular: <a href="tel:65996101750">(65) 9 9610-1750</a>
@@ -37,26 +36,26 @@ export default function Footer() {
         </div>
 
         <div className="footerSection footerSpecialties">
-          <h3 className="footerHeading">Obszary specjalizacji</h3>
-          <nav aria-label="Obszary specjalizacji">
+          <h3 className="footerHeading">Áreas de Especialização</h3>
+          <nav aria-label="Áreas de Especialização">
             <ul className="footerLinks">
               <li>
-                <Link to="/prawo-cywilne">Prawo Cywilne</Link>
+                <Link to="/prawo-cywilne">Direito Civil</Link>
               </li>
               <li>
-                <Link to="/prawo-rodzinne">Prawo Rodzinne</Link>
+                <Link to="/prawo-rodzinne">Direito de Família</Link>
               </li>
               <li>
-                <Link to="/prawo-gospodarcze">Prawo Gospodarcze</Link>
+                <Link to="/prawo-gospodarcze">Direito Empresarial</Link>
               </li>
               <li>
-                <Link to="/prawo-pracy">Prawo Pracy</Link>
+                <Link to="/prawo-pracy">Direito do Trabalho</Link>
               </li>
               <li>
-                <Link to="/prawo-nieruchomosci">Prawo Nieruchomości</Link>
+                <Link to="/prawo-nieruchomosci">Direito Imobiliário</Link>
               </li>
               <li>
-                <Link to="/prawo-danych">Prawo Ochrony Danych Osobowych</Link>
+                <Link to="/prawo-danych">Direito de Proteção de Dados Pessoais</Link>
               </li>
             </ul>
           </nav>
@@ -67,7 +66,7 @@ export default function Footer() {
         <p className="footerCredit">
           Designed and Coded by{" "}
           <strong>
-            <a className="footerLink" href="https://laura-glab.vercel.app/">Laura Głąb</a>
+            <a className="footerLink" href="https://landing-gamma-jade.vercel.app/">Weliton Duarte</a>
           </strong>
         </p>
       </div>
