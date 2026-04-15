@@ -32,13 +32,11 @@ export default function Mission() {
         className="missionText__section"
       >
         <p className="missionText">
-          Jako ambitny, młody prawnik, jestem zaangażowana w dostarczanie
-          innowacyjnej i dopasowanej pomocy prawnej, aby sprostać zróżnicowanym
-          potrzebom moich klientów. Skupiając się na jasnej komunikacji, empatii
-          oraz dogłębnym zrozumieniu prawa, dążę do tego, aby proces prawny był
-          jak najbardziej przejrzysty i bezstresowy. Zapoznaj się z oferowanymi
-          przeze mnie usługami i dowiedz się, jak mogę Ci pomóc w pewnym i
-          spokojnym pokonywaniu wyzwań prawnych.
+          Como uma jovem advogada ambiciosa, estou comprometida em fornecer assistência jurídica 
+          inovadora e personalizada para atender às diversas necessidades dos meus clientes. 
+          Priorizando a comunicação clara, a empatia e um profundo conhecimento da lei, 
+          busco tornar o processo legal o mais transparente e tranquilo possível. 
+          Saiba mais sobre os serviços que ofereço e como posso ajudá-lo(a) a enfrentar seus desafios jurídicos com confiança.
         </p>
       </motion.div>
 
@@ -55,9 +53,9 @@ export default function Mission() {
             const element = document.getElementById("contact");
             element?.scrollIntoView({ behavior: "smooth" });
           }}
-          aria-label="Przejdź do sekcji kontaktowej"
+          aria-label="Acesse a seção de contato."
         >
-          <span aria-hidden="true">Kontakt</span>
+          <span aria-hidden="true">Contato</span>
         </button>
       </motion.div>
     </section>
