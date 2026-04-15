@@ -21,7 +21,7 @@ export default function About() {
         viewport={{ once: true, amount: 0.2 }}
         className="aboutText__section"
       >
-        <p className="lawyerAbout">advoagada</p>
+        <p className="lawyerAbout">advogada</p>
         <h2 className="h2About">Ana Sonaira</h2>
         <p className="aboutText">
           Jestem prawnikiem specjalizującym się w sprawach cywilnych i
