@@ -21,8 +21,8 @@ export default function About() {
         viewport={{ once: true, amount: 0.2 }}
         className="aboutText__section"
       >
-        <p className="lawyerAbout">prawnik</p>
-        <h2 className="h2About">Martyna Winiarska</h2>
+        <p className="lawyerAbout">advoagada</p>
+        <h2 className="h2About">Ana Sonaira</h2>
         <p className="aboutText">
           Jestem prawnikiem specjalizującym się w sprawach cywilnych i
           gospodarczych. Pomagam klientom w rozwiązywaniu trudnych problemów
@@ -30,14 +30,14 @@ export default function About() {
           biznesowych.
         </p>
         <hr className="hrElement" />
-        <h4 className="educationTitle">Doświadczenie</h4>
+        <h4 className="educationTitle">Experiência</h4>
         <p className="educationAbout">
           Posiadam wieloletnie doświadczenie w pracy z klientami indywidualnymi
           i korporacyjnymi. Brałam udział w negocjacjach międzynarodowych umów
           oraz prowadziłam skomplikowane sprawy sądowe, które wymagały
           precyzyjnego podejścia i głębokiej wiedzy prawniczej.
         </p>
-        <h4 className="educationTitle">Edukacja</h4>
+        <h4 className="educationTitle">Formação</h4>
         <p className="educationAbout">
           Ukończyłam studia prawnicze na renomowanym uniwersytecie,
           specjalizując się w prawie cywilnym i handlowym. W trakcie kariery
